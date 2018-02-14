@@ -1,0 +1,25 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+ 	<title>Kedoo </title>
+ 	<link rel="stylesheet" type="text/css" href="reset.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+  	<p> Kedoo Lightbody 
+	<p/>
+	<ul>
+		
+  		<div><h1>Ḳedoo</h1>
+  		<h2>Fashion * Beauty * Celebrity News * Ask Kedoo * Charity * Art </h2></div>
+  		<div><img src="kedooinsta.jpg"></div>
+  		<h3>Todays story feature </h3>
+  		<div style="color: red;">
+  		</div>
+<p>Visit my instagram page for more information </p>
+	<a href="https://www.instagram.com/kedoolightbody/">click here</a>
+</h4>
+  </body>
+  </html>
+  |
